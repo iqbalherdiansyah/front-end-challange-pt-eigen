@@ -13,6 +13,7 @@ function App() {
       <Content>
         <Routes>
           <Route path='/' element={<Home />} />
+          <Route path="*" element={<p>Path not resolved</p>} />
         </Routes>
       </Content>
     </Layout>
