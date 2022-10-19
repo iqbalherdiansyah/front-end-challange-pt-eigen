@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/front-end-challange-pt-eigen/static/css/main.ce3f158a.css",
+    "main.js": "/front-end-challange-pt-eigen/static/js/main.3084364c.js",
+    "static/js/787.b315508b.chunk.js": "/front-end-challange-pt-eigen/static/js/787.b315508b.chunk.js",
+    "static/media/Poppins-Light.ttf": "/front-end-challange-pt-eigen/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/front-end-challange-pt-eigen/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/front-end-challange-pt-eigen/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-Bold.ttf": "/front-end-challange-pt-eigen/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "index.html": "/front-end-challange-pt-eigen/index.html",
+    "main.ce3f158a.css.map": "/front-end-challange-pt-eigen/static/css/main.ce3f158a.css.map",
+    "main.3084364c.js.map": "/front-end-challange-pt-eigen/static/js/main.3084364c.js.map",
+    "787.b315508b.chunk.js.map": "/front-end-challange-pt-eigen/static/js/787.b315508b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce3f158a.css",
+    "static/js/main.3084364c.js"
+  ]
+}
