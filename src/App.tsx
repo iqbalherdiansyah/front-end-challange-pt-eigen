@@ -12,7 +12,7 @@ function App() {
     <Layout style={{ backgroundColor : 'var(--black)' }}>
       <Content>
         <Routes>
-          <Route index element={<Home />} />
+          <Route path='/' index element={<Home />} />
           <Route path="*" element={<p>Path not resolved</p>} />
         </Routes>
       </Content>
